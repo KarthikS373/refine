@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@refinedev/cli": "^2.7.4",
+    "@refinedev/cli": "^2.7.5",
     "@refinedev/core": "^4.32.2",
     "@refinedev/inferencer": "^4.5.2",
     "@refinedev/react-hook-form": "^4.8.2",

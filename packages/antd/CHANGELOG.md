@@ -1,5 +1,13 @@
 # @pankod/refine-antd
 
+## 5.32.1
+
+### Patch Changes
+
+-   [#4772](https://github.com/refinedev/refine/pull/4772) [`c9cc4398e99`](https://github.com/refinedev/refine/commit/c9cc4398e9996a49f7ee9c4c5656661a66b591ad) Thanks [@alicanerdurmaz](https://github.com/alicanerdurmaz)! - fixed: antd `useModalForm` and `useDrawerForm` sends request twice when `syncWithLocation` is true
+
+-   [#4778](https://github.com/refinedev/refine/pull/4778) [`82909db10b4`](https://github.com/refinedev/refine/commit/82909db10b4ac1705e1354bff0c0d95951497725) Thanks [@salihozdemir](https://github.com/salihozdemir)! - fix: fixed the `goToStep` of `useStepsForm` hook return type
+
 ## 5.32.0
 
 ### Minor Changes
